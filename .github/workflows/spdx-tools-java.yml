@@ -40,7 +40,6 @@ jobs:
         run: .github/workflows/scripts/verify.sh ${{ steps.changed-files.outputs.all_changed_files }}
         if: github.event_name == 'pull_request'
 
-      # TODO: this should also (or maybe just) happen post merge
       - name: "convert touched tag-value documents"
         run: .github/workflows/scripts/convert.sh ${{ steps.changed-files.outputs.all_changed_files }}
         if: github.event.pull_request.merged == true
