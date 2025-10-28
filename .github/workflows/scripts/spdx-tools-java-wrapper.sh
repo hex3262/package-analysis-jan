@@ -8,7 +8,7 @@
 
 set -euo pipefail
 
-version="1.1.7"
+version="$SPDX_TOOLS_VERSION"
 jar="$HOME/spdx-tools-java/tools-java-${version}-jar-with-dependencies.jar"
 
 spdx_tools() {
