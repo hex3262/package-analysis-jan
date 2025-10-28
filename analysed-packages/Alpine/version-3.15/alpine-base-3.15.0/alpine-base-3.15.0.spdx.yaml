@@ -54,21 +54,21 @@ packages:
 files:
 - SPDXID: "SPDXRef-item148719964"
   checksums:
-  - algorithm: "SHA256"
-    checksumValue: "1a8d2e1a87d8fcaad4354be185d2c0b6aaf64a5b9203ea927f6123d5e196fc74"
   - algorithm: "MD5"
     checksumValue: "d6d244eb5de5f657c4faf3d438186cb0"
   - algorithm: "SHA1"
     checksumValue: "0064a5d0b75b9f88987c83cd8c4926b29bde3610"
+  - algorithm: "SHA256"
+    checksumValue: "1a8d2e1a87d8fcaad4354be185d2c0b6aaf64a5b9203ea927f6123d5e196fc74"
   copyrightText: "NOASSERTION"
   fileName: "alpine-base.zip/alpine-base/APKBUILD"
   licenseConcluded: "LicenseRef-MIT"
   licenseInfoInFiles:
   - "LicenseRef-MIT"
 relationships:
-- spdxElementId: "SPDXRef-DOCUMENT"
-  relationshipType: "DESCRIBES"
-  relatedSpdxElement: "SPDXRef-upload36"
 - spdxElementId: "SPDXRef-upload36"
   relationshipType: "CONTAINS"
   relatedSpdxElement: "SPDXRef-item148719964"
+- spdxElementId: "SPDXRef-DOCUMENT"
+  relationshipType: "DESCRIBES"
+  relatedSpdxElement: "SPDXRef-upload36"
