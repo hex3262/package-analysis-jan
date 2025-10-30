@@ -45,7 +45,7 @@ jobs:
 
       - name: "convert touched tag-value documents"
         run: .github/workflows/scripts/convert.sh ${{ steps.changed-files.outputs.all_changed_files }}
-        if: github.event.pull_request_target.merged == true
+        if: github.event.pull_request.merged == true
 
       - uses: EndBug/add-and-commit@v9
         with:
@@ -55,7 +55,7 @@ jobs:
           committer_email: actions@github.com
           pull: --rebase --autostash origin main
           push: origin HEAD:main
-        if: github.event.pull_request_target.merged == true
+        if: github.event.pull_request.merged == true
 
 #      - name: "verify all tag-value documents"
 #        run: .github/workflows/scripts/verify.sh all
