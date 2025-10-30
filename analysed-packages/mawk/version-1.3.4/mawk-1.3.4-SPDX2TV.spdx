@@ -172,7 +172,6 @@ FileChecksum: SHA256: 1e47cf8fab55b742565c0919d47e58df592c644c20b0cde74ba47b2fb6
 FileChecksum: MD5: 7c74b07d17b5369a9290da77a908d178
 LicenseConcluded: LicenseRef-GPL-3.0--with-autoconf-exception
 LicenseComments: <text>NOASSERTION </text>
-LicenseInfoInFile: LicenseRef-GPL-3.0+
 LicenseInfoInFile: LicenseRef-GPL-3.0--with-autoconf-exception.
 LicenseInfoInFile: LicenseRef-Autoconf-exception
 LicenseInfoInFile: LicenseRef-LicenseRef-scancode-free-unknown
@@ -190,7 +189,6 @@ FileChecksum: SHA256: 2c5225f49f566a2a1296deea47146bdd8a1b57a9892aa71f02871205f4
 FileChecksum: MD5: 12814869beb573b2c024c96f0596375c
 LicenseConcluded: LicenseRef-GPL-3.0--with-autoconf-exception
 LicenseComments: <text>NOASSERTION </text>
-LicenseInfoInFile: LicenseRef-GPL-3.0+
 LicenseInfoInFile: LicenseRef-GPL-3.0--with-autoconf-exception.
 LicenseInfoInFile: LicenseRef-Autoconf-exception
 LicenseInfoInFile: LicenseRef-LicenseRef-scancode-free-unknown
@@ -2409,7 +2407,7 @@ Creative Commons may be contacted at http://creativecommons.org/.
  </text>
 
 LicenseID: LicenseRef-GPL-3.0--with-autoconf-exception.
-LicenseName: GPL-3.0+-with-autoconf-exception.
+LicenseName: GPL-3.0-or-later-with-autoconf-exception.
 ExtractedText: <text> This file is free software; you can redistribute it and/or modify it
  under the terms of the GNU General Public License as published by
  the Free Software Foundation; either version 3 of the License, or
@@ -3199,7 +3197,7 @@ This configure script is free software; the Free Software Foundation gives unlim
  </text>
 
 LicenseID: LicenseRef-GPL-3.0--with-autoconf-exception
-LicenseName: GPL-3.0+-with-autoconf-exception-the exception-text-that-is-usually-applied
+LicenseName: GPL-3.0-or-later-with-autoconf-exception-the exception-text-that-is-usually-applied
 ExtractedText: <text> GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
