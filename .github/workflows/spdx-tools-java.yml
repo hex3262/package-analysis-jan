@@ -4,6 +4,8 @@
 # SPDX-License-Identifier: CC0-1.0
 
 name: spdx/tools-java workflow
+permissions:
+  contents: write
 env:
   SPDX_TOOLS_VERSION: 2.0.2
 on:
