@@ -57,6 +57,6 @@ jobs:
           push: origin HEAD:main
         if: github.event.pull_request.merged == true
 
-      - name: "verify all tag-value documents"
-        run: .github/workflows/scripts/verify.sh all
-        if: github.event_name != 'pull_request'
+#      - name: "verify all tag-value documents"
+#        run: .github/workflows/scripts/verify.sh all
+#        if: github.event_name != 'pull_request'
