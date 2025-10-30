@@ -22,12 +22,18 @@ jobs:
     permissions:
       contents: write
     steps:
-
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.event.pull_request.head.ref }}
+        if: github.event.pull_request.merged == false
+
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.ref }}
+        if: github.event.pull_request.merged == true
 
       - name: "bootstrap spdx/tools-java"
         run: .github/workflows/scripts/spdx-tools-java-wrapper.sh bootstrap
