@@ -4,8 +4,6 @@
 # SPDX-License-Identifier: CC0-1.0
 
 name: spdx/tools-java workflow
-permissions:
-  contents: write
 env:
   SPDX_TOOLS_VERSION: 2.0.2
 on:
@@ -21,6 +19,8 @@ on:
 jobs:
   syntax-check-of-tag-value:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
 
       - uses: actions/checkout@v4
