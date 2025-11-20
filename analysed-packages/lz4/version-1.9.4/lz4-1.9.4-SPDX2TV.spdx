@@ -60,7 +60,7 @@ SPDXID: SPDXRef-item165115460
 FileChecksum: SHA1: 1714b0606a6239aa474b94f82a77e9c2cc0738e4
 FileChecksum: SHA256: 244eae35e1e7c8c46c35595571a6e5285fa65e4eabe9e8b755c90dae68034fce
 FileChecksum: MD5: 1390abc3d8bf6a7b69534b02b8cd6329
-LicenseConcluded: LicenseRef-BSD-2-Clause-68092a45bf6b6ec767dc44b4ccef998d AND LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-BSD-2-Clause-68092a45bf6b6ec767dc44b4ccef998d AND LicenseRef-GPL-2.0-or-later
 LicenseInfoInFile: LicenseRef-GPL-2.0+
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
 LicenseInfoInFile: LicenseRef-GPL-2.0
