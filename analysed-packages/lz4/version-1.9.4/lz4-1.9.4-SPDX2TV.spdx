@@ -60,8 +60,8 @@ SPDXID: SPDXRef-item165115460
 FileChecksum: SHA1: 1714b0606a6239aa474b94f82a77e9c2cc0738e4
 FileChecksum: SHA256: 244eae35e1e7c8c46c35595571a6e5285fa65e4eabe9e8b755c90dae68034fce
 FileChecksum: MD5: 1390abc3d8bf6a7b69534b02b8cd6329
-LicenseConcluded: LicenseRef-BSD-2-Clause-68092a45bf6b6ec767dc44b4ccef998d AND LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-BSD-2-Clause-68092a45bf6b6ec767dc44b4ccef998d AND LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
 LicenseInfoInFile: LicenseRef-GPL-2.0
 LicenseInfoInFile: LicenseRef-BSD-3-Clause
@@ -90,8 +90,8 @@ SPDXID: SPDXRef-item165115425
 FileChecksum: SHA1: 074cb0a205b2c1590edfba124918059a480b5b27
 FileChecksum: SHA256: 905158c0db084be3c6cb403067502a8e4871daf560219695106c4a9398e53c56
 FileChecksum: MD5: 8101c51253de49b12753cd69e944b211
-LicenseConcluded: LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 FileCopyrightText: <text> Copyright (C) Yann Collet 2011-2020 </text>
  
 
@@ -103,9 +103,9 @@ FileChecksum: SHA1: 4cc77b90af91e615a64ae04893fdffa7939db84c
 FileChecksum: SHA256: 8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643
 FileChecksum: MD5: b234ee4d69f5fce4486a80fdaf4a4263
 LicenseConcluded: LicenseRef-License-of-FSF-Licenses
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 LicenseInfoInFile: LicenseRef-GPL-2.0
-LicenseInfoInFile: LicenseRef-GPL-2.0--with-libtool-exception
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later-with-libtool-exception
 FileCopyrightText: <text> Copyright (C) 1989, 1991 Free Software Foundation, Inc. </text>
  
 
@@ -131,8 +131,8 @@ SPDXID: SPDXRef-item165115388
 FileChecksum: SHA1: 3168c91bef8b89b7973f1373868af8fc934b7958
 FileChecksum: SHA256: 43ecff48ff51dca75f47627410fb9255fcc01d7916da59f077743bd357a6ca2e
 FileChecksum: MD5: 4c21b4797959296056e3431b5c173964
-LicenseConcluded: LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 FileCopyrightText: <text> Copyright (C) Yann Collet 2012-2020 </text>
  
 
@@ -143,8 +143,8 @@ SPDXID: SPDXRef-item165115377
 FileChecksum: SHA1: 4ece5ef76b984f592528009034003e102c0d63dd
 FileChecksum: SHA256: 54e0d1d51466ed1f1a27f5a0135020350328cf7fd9167223f992cac8fc9836ff
 FileChecksum: MD5: 626322243f93cf588b2c738b14e9fb01
-LicenseConcluded: LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 FileCopyrightText: <text> Copyright (C) Yann Collet 2012-2020 </text>
  
 
@@ -155,8 +155,8 @@ SPDXID: SPDXRef-item165115369
 FileChecksum: SHA1: f4b3e55687c6112d7345dd7040f7c65cc1e84eed
 FileChecksum: SHA256: bf5b6052be10586bac6993e8b4e81c94f06d5fabba2b037ef3e166b6bc4662e1
 FileChecksum: MD5: 44b7690ddb8d6fed20e0c80d3fc2f9a5
-LicenseConcluded: LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 FileCopyrightText: <text> Copyright (C) Yann Collet 2014-2020 </text>
  
 
@@ -167,8 +167,8 @@ SPDXID: SPDXRef-item165115367
 FileChecksum: SHA1: f3acc5e208ad4f05b2a8cf8fccc629189046e245
 FileChecksum: SHA256: a49419f21d05aa45c7d82c7972064e1cd0d87ba6fe0a3417686337545d276445
 FileChecksum: MD5: 0572d2992f5f38efb902a11c4d667a0b
-LicenseConcluded: LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 FileCopyrightText: <text> Copyright (C) Yann Collet 2018-2020 </text>
  
 
@@ -179,8 +179,8 @@ SPDXID: SPDXRef-item165115387
 FileChecksum: SHA1: 739b25a5843be3614f25a5e9ab50267b71530890
 FileChecksum: SHA256: 2933c69b4cd4b2a10f3c5532ff0a1b151a6e3995b4aa7bf07dd516ad3fcfa52e
 FileChecksum: MD5: 5042c91be5a869952b93bef8e8bd7755
-LicenseConcluded: LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 FileCopyrightText: <text> Copyright (C) Yann Collet 2012-2020 </text>
  
 
@@ -191,8 +191,8 @@ SPDXID: SPDXRef-item165115379
 FileChecksum: SHA1: 5d9b549036f1c517fd5e20d7d501819e41fc18be
 FileChecksum: SHA256: 876caaa7f622b953aebb4be145be3a47b6db2cbdd1ff0150accafdba499bc3dc
 FileChecksum: MD5: 0bc1d48497db4f8260869ee68f0d4b63
-LicenseConcluded: LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 FileCopyrightText: <text> Copyright (C) Yann Collet 2011-2020 </text>
  
 
@@ -203,8 +203,8 @@ SPDXID: SPDXRef-item165115370
 FileChecksum: SHA1: dfdd4a7e9a7804f68198513fdcfd4c6b1f6fd90e
 FileChecksum: SHA256: c2661471ffaf9b4b6b633fcbe3c1ef1831bfb5e8b33cc1b74eac656df1c38b35
 FileChecksum: MD5: 4ad5c36eb010b71c88ebf16a3697d57a
-LicenseConcluded: LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 FileCopyrightText: <text> Copyright (C) Yann Collet 2014-2020 </text>
  
 
@@ -216,9 +216,9 @@ FileChecksum: SHA1: 4cc77b90af91e615a64ae04893fdffa7939db84c
 FileChecksum: SHA256: 8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643
 FileChecksum: MD5: b234ee4d69f5fce4486a80fdaf4a4263
 LicenseConcluded: LicenseRef-License-of-FSF-Licenses
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 LicenseInfoInFile: LicenseRef-GPL-2.0
-LicenseInfoInFile: LicenseRef-GPL-2.0--with-libtool-exception
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later-with-libtool-exception
 FileCopyrightText: <text> Copyright (C) 1989, 1991 Free Software Foundation, Inc. </text>
  
 
@@ -231,7 +231,7 @@ FileChecksum: SHA256: 47501e4925d60c0f87c7bfc68c8b9e0e4d942eea786e35d2c5bfbf5e9d
 FileChecksum: MD5: b227a2031eaf4502870e7b3bc43267f0
 LicenseConcluded: LicenseRef-BSD-2-Clause-06ef135642a8cf31b41a112e15526f4b
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
-LicenseInfoInFile: LicenseRef-BSD-2-Clause_COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
+LicenseInfoInFile: LicenseRef-BSD-2-Clause-COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
 LicenseInfoInFile: LicenseRef-BSD-3-Clause-No-Military-License
 LicenseInfoInFile: LicenseRef-LicenseRef-scancode-warranty-disclaimer
 FileCopyrightText: <text> Copyright (C) 2011-2020, Yann Collet.  </text>
@@ -256,8 +256,8 @@ SPDXID: SPDXRef-item165115345
 FileChecksum: SHA1: 3c71033102dea702d7dad6729efd2bc3a791fa3a
 FileChecksum: SHA256: 1e035be57a8c3613726d39a56ebcffb20a8f4560e89bb3827edd3b98535561f7
 FileChecksum: MD5: 468b1a3f9bf9524f404bd4dd6423a886
-LicenseConcluded: LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 FileCopyrightText: <text> Copyright (C) Yann Collet 2016-2020 </text>
  
 
@@ -294,7 +294,7 @@ FileChecksum: SHA256: c1614ecf7ada7b0be1acb560d4239595f96fbb7aa6a79a7c40cb358753
 FileChecksum: MD5: 083fc1426e07b3dc4be124c062f0ed5c
 LicenseConcluded: LicenseRef-BSD-2-Clause-06ef135642a8cf31b41a112e15526f4b
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
-LicenseInfoInFile: LicenseRef-BSD-2-Clause_COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
+LicenseInfoInFile: LicenseRef-BSD-2-Clause-COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
 LicenseInfoInFile: LicenseRef-BSD-3-Clause-No-Military-License
 FileCopyrightText: <text> Copyright (C) 2011-2020, Yann Collet. </text>
  
@@ -464,8 +464,8 @@ SPDXID: SPDXRef-item165115561
 FileChecksum: SHA1: d545832dddad2dc09b75ab80019ba63d5ed2091f
 FileChecksum: SHA256: d0ff4d04be36ff4e4dd8bf7304b10f22804d347b460ff591c031a22f29540a9a
 FileChecksum: MD5: aa4997a5f4276e648258c22be550923d
-LicenseConcluded: LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
 LicenseInfoInFile: LicenseRef-GPL-2.0
 FileCopyrightText: <text> Copyright (C) Yann Collet 2011-2020  </text>
@@ -478,8 +478,8 @@ SPDXID: SPDXRef-item165115560
 FileChecksum: SHA1: 0b25aa50940d04a668348332f5adfed20cd5aea7
 FileChecksum: SHA256: fd05d6b36d402e9de9a71ac639f354d50d88277dfa3beee80df14dcc4268b4e2
 FileChecksum: MD5: 7f7d8b1dae1f2678fb1db90c24a6a78a
-LicenseConcluded: LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 FileCopyrightText: <text> Copyright (C) Yann Collet 2012-2020 </text>
  
 
@@ -490,8 +490,8 @@ SPDXID: SPDXRef-item165115558
 FileChecksum: SHA1: 41514be3531c55f7949f1ce2b60bf8322baeaddd
 FileChecksum: SHA256: 5b3e1ca58febcb30f0fa1870cc42fa61bd155aa6cb1ab5a93b5be541a9ca3668
 FileChecksum: MD5: 56193e36fab0724ee023b35047a1c38e
-LicenseConcluded: LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 FileCopyrightText: <text> Copyright (C) 2016-2020, Przemyslaw Skibinski, Yann Collet </text>
  
 
@@ -502,8 +502,8 @@ SPDXID: SPDXRef-item165115551
 FileChecksum: SHA1: 9ae31fc57039be898219b0d42f0a10dcbc0e77c9
 FileChecksum: SHA256: 7c5c664c7ea9a7ee4b024daabe0d8f311bc5000d26b6d3ad1d6012c06592e4c6
 FileChecksum: MD5: 3e05e64e07a9dcbeed87c64e29cb25ea
-LicenseConcluded: LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 FileCopyrightText: <text> Copyright (C) 2016-2020, Przemyslaw Skibinski, Yann Collet </text>
  
 
@@ -514,8 +514,8 @@ SPDXID: SPDXRef-item165115549
 FileChecksum: SHA1: bcb16c56ea634493a709a71df1874b192a928ab3
 FileChecksum: SHA256: 402be357313f7cb1e61c1c02dfd5326f788180bedc7b16fb01ba7eff3f3874da
 FileChecksum: MD5: 255da84cec8cdb88d3ad70be04fe0fa2
-LicenseConcluded: LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 FileCopyrightText: <text> Copyright (C) Yann Collet 2012-2020 </text>
  
 
@@ -526,8 +526,8 @@ SPDXID: SPDXRef-item165115546
 FileChecksum: SHA1: 284c1f6de0bc6f6142f860d2570ce14e6e750450
 FileChecksum: SHA256: 1a24441da3806f4b7972661069bc1a724ee51b9f478594913ce2b6f513afeae8
 FileChecksum: MD5: 4c6887f8a64167f324e9be15bc26aa22
-LicenseConcluded: LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
 LicenseInfoInFile: LicenseRef-GPL-2.0
 FileCopyrightText: <text> Copyright (C) Yann Collet 2011-2020 </text>
@@ -540,8 +540,8 @@ SPDXID: SPDXRef-item165115559
 FileChecksum: SHA1: fbb45a636e83a76cda689a4b36cce284860b0ead
 FileChecksum: SHA256: 53fd38d320fe3e325179c2b54273feb5f617c96372b45ec606c0b02b32964785
 FileChecksum: MD5: 26981ff99080f2095e8187f80a4c462c
-LicenseConcluded: LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 FileCopyrightText: <text> Copyright (C) Yann Collet 2012-2020 </text>
  
 
@@ -552,8 +552,8 @@ SPDXID: SPDXRef-item165115557
 FileChecksum: SHA1: 72c4854f2f37f32ce2cd2d46d207655f660c19f9
 FileChecksum: SHA256: bb440fe18a438ecf21fc0c732f2eafbc6e42a3b9b29c35315b41c9fc218e3767
 FileChecksum: MD5: df8b07f56b28781b1fac72d1a13f50f3
-LicenseConcluded: LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
 LicenseInfoInFile: LicenseRef-GPL-2.0
 FileCopyrightText: <text> Copyright (C) Yann Collet 2011-2020 </text>
@@ -566,8 +566,8 @@ SPDXID: SPDXRef-item165115554
 FileChecksum: SHA1: 1b951c9666ced2f4e998c3ad4db69e13c568d8c1
 FileChecksum: SHA256: db557481974fe733694a273c45ab83aa60a56491e7049b1cd91a29b79d3750e0
 FileChecksum: MD5: 5326156fefe341cdabdfe95072f58007
-LicenseConcluded: LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 FileCopyrightText: <text> Copyright (C) Yann Collet 2011-2020 </text>
  
 
@@ -578,8 +578,8 @@ SPDXID: SPDXRef-item165115550
 FileChecksum: SHA1: 81c926c7032e148a5c70793b1df80119c0adf58f
 FileChecksum: SHA256: 2ff152b06793b2010e1b3ed8cde8b13ff8720efd98acbdeab43595b730e07404
 FileChecksum: MD5: a03d80b144729b8c6234006db6846469
-LicenseConcluded: LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 FileCopyrightText: <text> Copyright (C) Yann Collet 2012-2020 </text>
  
 
@@ -591,9 +591,9 @@ FileChecksum: SHA1: 4cc77b90af91e615a64ae04893fdffa7939db84c
 FileChecksum: SHA256: 8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643
 FileChecksum: MD5: b234ee4d69f5fce4486a80fdaf4a4263
 LicenseConcluded: LicenseRef-License-of-FSF-Licenses
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 LicenseInfoInFile: LicenseRef-GPL-2.0
-LicenseInfoInFile: LicenseRef-GPL-2.0--with-libtool-exception
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later-with-libtool-exception
 FileCopyrightText: <text> Copyright (C) 1989, 1991 Free Software Foundation, Inc. </text>
  
 
@@ -604,8 +604,8 @@ SPDXID: SPDXRef-item165115410
 FileChecksum: SHA1: c526658d5e590dbab7558d544164de7ebf28c7d2
 FileChecksum: SHA256: f78aeb70e53a7bccd0dd947183a9727ebf8bfb1ce1c1df105860da00641518ad
 FileChecksum: MD5: 55fb187c5b469e120f8f0a64d90c8e81
-LicenseConcluded: LicenseRef-GPL-2.0 AND LicenseRef-GPL-2.0+
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseConcluded: LicenseRef-GPL-2.0 AND LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 FileCopyrightText: NOASSERTION
  
 
@@ -684,7 +684,7 @@ FileChecksum: SHA256: fe165d45c2cbdfd1779c68508c3f0a757db06b337c3f44e54f1586af03
 FileChecksum: MD5: 4cea3b7f63ef82ef51b0add0f1d21a91
 LicenseConcluded: LicenseRef-BSD-2-Clause-cd522089f60394f0e25ebe3028181ab9
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
-LicenseInfoInFile: LicenseRef-BSD-2-Clause_COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
+LicenseInfoInFile: LicenseRef-BSD-2-Clause-COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
 LicenseInfoInFile: LicenseRef-BSD-3-Clause-No-Military-License
 FileCopyrightText: <text> Copyright (C) Yann Collet 2011-2020 All rights reserved. </text>
  
@@ -698,7 +698,7 @@ FileChecksum: SHA256: a62c2d5e4f8351b78d0b228ab743b882accb638a2c0eebdb3345538afb
 FileChecksum: MD5: db249f52417f4701ad4cf0ca56535801
 LicenseConcluded: LicenseRef-BSD-2-Clause-cd522089f60394f0e25ebe3028181ab9
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
-LicenseInfoInFile: LicenseRef-BSD-2-Clause_COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
+LicenseInfoInFile: LicenseRef-BSD-2-Clause-COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
 LicenseInfoInFile: LicenseRef-BSD-3-Clause-No-Military-License
 FileCopyrightText: <text> Copyright (C) Przemyslaw Skibinski 2016-present All rights reserved. </text>
  
@@ -712,7 +712,7 @@ FileChecksum: SHA256: 7cd77560eba394bdc63580c05399e7aae09b5a5961ecd044bedcc09cc0
 FileChecksum: MD5: e9932a357f71788353eb9ed255c04819
 LicenseConcluded: LicenseRef-BSD-2-Clause-cd522089f60394f0e25ebe3028181ab9
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
-LicenseInfoInFile: LicenseRef-BSD-2-Clause_COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
+LicenseInfoInFile: LicenseRef-BSD-2-Clause-COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
 LicenseInfoInFile: LicenseRef-BSD-3-Clause-No-Military-License
 FileCopyrightText: <text> Copyright (C) Yann Collet 2020 All rights reserved. </text>
  
@@ -726,7 +726,7 @@ FileChecksum: SHA256: c85bc305201f3af83aff6921630633b5c52f4c385616e74d8f3c6a7945
 FileChecksum: MD5: 935452b03d65bca65019763fa46a4eb1
 LicenseConcluded: LicenseRef-BSD-2-Clause-cd522089f60394f0e25ebe3028181ab9
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
-LicenseInfoInFile: LicenseRef-BSD-2-Clause_COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
+LicenseInfoInFile: LicenseRef-BSD-2-Clause-COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
 LicenseInfoInFile: LicenseRef-BSD-3-Clause-No-Military-License
 FileCopyrightText: <text> Copyright (C) Yann Collet 2011-2020 All rights reserved. </text>
  
@@ -740,7 +740,7 @@ FileChecksum: SHA256: 8b58c446121a109ccf32edc094bba3010a3d85e4ee3702950db55e4d3e
 FileChecksum: MD5: 5cd5f851b52ec832b10eedb3f01f885a
 LicenseConcluded: LicenseRef-BSD-2-Clause-cd522089f60394f0e25ebe3028181ab9
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
-LicenseInfoInFile: LicenseRef-BSD-2-Clause_COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
+LicenseInfoInFile: LicenseRef-BSD-2-Clause-COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
 FileCopyrightText: <text> Copyright (c) 2011-2020, Yann Collet All rights reserved. </text>
  
 
@@ -753,7 +753,7 @@ FileChecksum: SHA256: 713e6e81dbf3aacccf09c2e7bb910c74c13f048f4cb368430d5e66eb48
 FileChecksum: MD5: b4f9440ed06e36b5b1669e4d8c4dcac8
 LicenseConcluded: LicenseRef-BSD-2-Clause-b60c56302769e1e8ac2b1955fd9fe5c3
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
-LicenseInfoInFile: LicenseRef-BSD-2-Clause_COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
+LicenseInfoInFile: LicenseRef-BSD-2-Clause-COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
 LicenseInfoInFile: LicenseRef-BSD-3-Clause-No-Military-License
 FileCopyrightText: <text> Copyright (C) 2022, Xiaomi Inc. </text>
  
@@ -767,7 +767,7 @@ FileChecksum: SHA256: 80812286293760e032b254fb1c5bfd03ed099879dbecf1503286c0bb3c
 FileChecksum: MD5: e1ef450d5ea732aa9ed135d19a85e880
 LicenseConcluded: LicenseRef-BSD-2-Clause-b60c56302769e1e8ac2b1955fd9fe5c3
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
-LicenseInfoInFile: LicenseRef-BSD-2-Clause_COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
+LicenseInfoInFile: LicenseRef-BSD-2-Clause-COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
 LicenseInfoInFile: LicenseRef-BSD-3-Clause-No-Military-License
 FileCopyrightText: <text> Copyright (C) 2011-2016, Yann Collet. </text>
  
@@ -781,7 +781,7 @@ FileChecksum: SHA256: 31ab72a6e97e4fa0bedd4420d24a3f1f8024cbfa1d8ffad88c87cbb4e0
 FileChecksum: MD5: af11028a38f29ec206b56c04c9c1bf92
 LicenseConcluded: LicenseRef-BSD-2-Clause-06ef135642a8cf31b41a112e15526f4b
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
-LicenseInfoInFile: LicenseRef-BSD-2-Clause_COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
+LicenseInfoInFile: LicenseRef-BSD-2-Clause-COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
 LicenseInfoInFile: LicenseRef-BSD-3-Clause-No-Military-License
 FileCopyrightText: <text> Copyright (C) 2011-2020, Yann Collet. </text>
  
@@ -795,7 +795,7 @@ FileChecksum: SHA256: 6bc1efeb79571807da2ca084809de1760e0cd87064e40eccf9624d9508
 FileChecksum: MD5: bd0448116ef6b870afef73033523abf1
 LicenseConcluded: LicenseRef-BSD-2-Clause-06ef135642a8cf31b41a112e15526f4b
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
-LicenseInfoInFile: LicenseRef-BSD-2-Clause_COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
+LicenseInfoInFile: LicenseRef-BSD-2-Clause-COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
 LicenseInfoInFile: LicenseRef-BSD-3-Clause-No-Military-License
 FileCopyrightText: <text> Copyright (C) 2011-2020, Yann Collet.  </text>
  
@@ -809,7 +809,7 @@ FileChecksum: SHA256: b6a85fd8f9be0fedb568abd1338719b23b999583ccda6f3404d5ae11e4
 FileChecksum: MD5: f4f964f79492f7bc7e0b391574c64881
 LicenseConcluded: LicenseRef-BSD-2-Clause-06ef135642a8cf31b41a112e15526f4b
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
-LicenseInfoInFile: LicenseRef-BSD-2-Clause_COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
+LicenseInfoInFile: LicenseRef-BSD-2-Clause-COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
 LicenseInfoInFile: LicenseRef-BSD-3-Clause-No-Military-License
 FileCopyrightText: <text> Copyright (C) 2011-2020, Yann Collet. </text>
  
@@ -823,7 +823,7 @@ FileChecksum: SHA256: bca2cf3a014b21919da4fa92db5adbfbfc9aee2f0938107885a3a8f49a
 FileChecksum: MD5: 27ed5fbe9ed610bd268596342f8164cc
 LicenseConcluded: LicenseRef-BSD-2-Clause-06ef135642a8cf31b41a112e15526f4b
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
-LicenseInfoInFile: LicenseRef-BSD-2-Clause_COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
+LicenseInfoInFile: LicenseRef-BSD-2-Clause-COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
 LicenseInfoInFile: LicenseRef-BSD-3-Clause-No-Military-License
 FileCopyrightText: <text> Copyright (C) 2011-2020, Yann Collet. </text>
  
@@ -837,7 +837,7 @@ FileChecksum: SHA256: 97dac662a59fac29a965c88724d43d960c53b7594f24660dd8e5dd825f
 FileChecksum: MD5: efb19c9b41b20db76b3c5ef4dfc09db4
 LicenseConcluded: LicenseRef-BSD-2-Clause-06ef135642a8cf31b41a112e15526f4b
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
-LicenseInfoInFile: LicenseRef-BSD-2-Clause_COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
+LicenseInfoInFile: LicenseRef-BSD-2-Clause-COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
 LicenseInfoInFile: LicenseRef-BSD-3-Clause-No-Military-License
 FileCopyrightText: <text> Copyright (c) 2016-present, Przemyslaw Skibinski All rights reserved. </text>
  
@@ -851,7 +851,7 @@ FileChecksum: SHA256: 7ae8273e2eae674db237c4d0c300e4a69bff8832b0e5b4e08552255fde
 FileChecksum: MD5: b00be34b9077459b80a752cc81bee7ac
 LicenseConcluded: LicenseRef-BSD-2-Clause-06ef135642a8cf31b41a112e15526f4b
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
-LicenseInfoInFile: LicenseRef-BSD-2-Clause_COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
+LicenseInfoInFile: LicenseRef-BSD-2-Clause-COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
 LicenseInfoInFile: LicenseRef-BSD-3-Clause-No-Military-License
 FileCopyrightText: <text> Copyright (C) 2012-2016, Yann Collet </text>
  
@@ -865,7 +865,7 @@ FileChecksum: SHA256: 5488a9d74ab408e480bb8d7a15ba19e4631d9761fe11e4fbd6920b3c93
 FileChecksum: MD5: f99d6156b9497f4c059c138a4924192d
 LicenseConcluded: LicenseRef-BSD-2-Clause-06ef135642a8cf31b41a112e15526f4b
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
-LicenseInfoInFile: LicenseRef-BSD-2-Clause_COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
+LicenseInfoInFile: LicenseRef-BSD-2-Clause-COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
 LicenseInfoInFile: LicenseRef-BSD-3-Clause-No-Military-License
 FileCopyrightText: <text> Copyright (C) 2022, Xiaomi Inc.  </text>
  
@@ -879,7 +879,7 @@ FileChecksum: SHA256: aefdd236f35130495c18764cabed3f7b216906855fc5e6a9025cd2040b
 FileChecksum: MD5: e402c69cf0dba5f5a6d8004cf91b6c81
 LicenseConcluded: LicenseRef-BSD-2-Clause-06ef135642a8cf31b41a112e15526f4b
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
-LicenseInfoInFile: LicenseRef-BSD-2-Clause_COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
+LicenseInfoInFile: LicenseRef-BSD-2-Clause-COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
 LicenseInfoInFile: LicenseRef-BSD-3-Clause-No-Military-License
 FileCopyrightText: <text> Copyright (C) 2012-2016, Yann Collet. </text>
  
@@ -1687,7 +1687,7 @@ FileChecksum: SHA1: 2f38265e78715b5aa3ecf5b1ae2478bcaa74ab15
 FileChecksum: SHA256: 4f6ef9d0e844bf432d6a0abb2623f5a61175ae40f7f0e3665490311d89e3af87
 FileChecksum: MD5: 43326d82475d5d837ed8290d50886566
 LicenseConcluded: NOASSERTION
-LicenseInfoInFile: LicenseRef-GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 FileCopyrightText: NOASSERTION
  
 
@@ -1748,7 +1748,7 @@ FileChecksum: SHA256: d011d1e02cb32b71c1ce2922ab41a2e2ad30f4ecf8de22c078d5361820
 FileChecksum: MD5: aad12b3b86c40538f105242c8f3589d7
 LicenseConcluded: NOASSERTION
 LicenseInfoInFile: LicenseRef-BSD-2-Clause
-LicenseInfoInFile: LicenseRef-BSD-2-Clause_COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
+LicenseInfoInFile: LicenseRef-BSD-2-Clause-COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
 FileCopyrightText: NOASSERTION
  
 
@@ -2536,10 +2536,6 @@ express Statement of Purpose.
     this CC0 or use of the Work.
  </text>
 
-LicenseID: LicenseRef-No_license_found
-LicenseName: No_license_found
-ExtractedText: <text> Not find any license in the scanned file </text>
-
 LicenseID: LicenseRef-LicenseRef-scancode-unknown-license-reference
 LicenseName: Unknown License file reference
 ExtractedText: <text> License by Scancode. </text>
@@ -2704,8 +2700,8 @@ signature of Ty Coon, 1 April 1989
 Ty Coon, President of Vice
 This General Public License does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License. </text>
 
-LicenseID: LicenseRef-BSD-2-Clause_COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
-LicenseName: BSD-2-Clause_COPYRIGHT HOLDERS AND CONTRIBUTORS
+LicenseID: LicenseRef-BSD-2-Clause-COPYRIGHT-HOLDERS-AND-CONTRIBUTORS
+LicenseName: BSD-2-Clause-COPYRIGHT HOLDERS AND CONTRIBUTORS
 ExtractedText: <text> Redistribution and use in source and binary forms, with or without modification,
  are permitted provided that the following conditions are met:
 
@@ -2775,7 +2771,7 @@ ExtractedText: <text> Redistribution and use in source and binary forms, with or
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
 
-LicenseID: LicenseRef-GPL-2.0+
+LicenseID: LicenseRef-GPL-2.0-or-later
 LicenseName: GNU General Public License v2.0 or later
 ExtractedText: <text> GNU GENERAL PUBLIC LICENSE
 
@@ -2909,8 +2905,8 @@ LicenseID: LicenseRef-See-URL
 LicenseName: See-URL
 ExtractedText: <text> License by Nomos. </text>
 
-LicenseID: LicenseRef-GPL-2.0--with-libtool-exception
-LicenseName: GPL-2.0+-with-libtool-exception
+LicenseID: LicenseRef-GPL-2.0-or-laterwith-libtool-exception
+LicenseName: GPL-2.0-or-later-with-libtool-exception
 ExtractedText: <text> GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
