@@ -8,7 +8,7 @@ creationInfo:
   created: "2024-12-16T13:47:37Z"
   creators:
   - "Tool: fossology-4.4.0.51"
-  - "Person: Oliver Fendt (modified one more time by    Jan Altenberg for testing)"
+  - "Person: Oliver Fendt (modified one more time by  Jan Altenberg for testing)"
   licenseListVersion: "3.22"
 name: "/srv/fossology/repository/report"
 dataLicense: "CC0-1.0"
