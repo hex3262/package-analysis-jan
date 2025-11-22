@@ -19,7 +19,7 @@ SPDXID: SPDXRef-DOCUMENT
 ##-------------------------
 
 Creator: Tool: fossology-4.4.0.51
-Creator: Person: Oliver Fendt (modified one more time by  Jan Altenberg for testing)
+Creator: Person: Oliver Fendt (modified one more time by Jan Altenberg for testing)
 CreatorComment: <text>
 This document was created using license information and a generator from Fossology.
 It contains the license and copyright analysis of busybox 1.37.0
